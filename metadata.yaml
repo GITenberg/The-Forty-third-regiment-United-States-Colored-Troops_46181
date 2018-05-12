@@ -1,0 +1,34 @@
+_repo: The-Forty-third-regiment-United-States-Colored-Troops_46181
+_version: 0.1.0
+alternative_title: The 43rd regiment United States Colored Troops
+covers:
+- cover_type: archival
+  image_path: 46181-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mickley, Jeremiah Marion
+    gutenberg_agent_id: '43647'
+    url: http://www.gutenberg.org/2009/agents/43647
+description: '"The First Battalion of the 43rd Regiment U.S.C.T., was composed of
+  Companies A,B,C,D,E, and F, was recruited and organized, March 4, 1864, at Camp
+  William Penn, Philadelphia, and left camp, April 18, under Command of Lieut. Col.,
+  H. Seymour Hall. A Company G was later added on July 30, 1864"--Page 70. "The Brigade
+  was finally discharged at Philadelphia, Nov. 30, 1865. It''s casualties in service
+  were, officers killed three, wounded eleven, and three discharged by reason of wounds
+  ; and men killed, died of wounds and disease, three hundred and six, and mission
+  one hundred and ninety-six"--Page 84.'
+gutenberg_issued: '2014-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46181'
+  lccn: '02017117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States. Army. Infantry. Colored Infantry Regiment, 43rd (1864-1865)'
+title: The Forty-third regiment United States Colored Troops
+url: http://www.gutenberg.org/ebooks/46181
